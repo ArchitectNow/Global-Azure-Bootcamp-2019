@@ -13,6 +13,7 @@ President
 ArchitectNow
 www.architectnow.net
 
+
 ---
 
 The following labs will be provided.  To make the day run smoothly it is *IMPORTANT* that you choose one (or more) of the labs below and work through the Pre-Requisites provided.   This will ensure you have the necessary tools, Azure access, and other infrastructure set up prior to starting the actual lab.  Prior to the event we will distribute the step-by-step instructions for each lab electronically (they will not be provided in printed form).
