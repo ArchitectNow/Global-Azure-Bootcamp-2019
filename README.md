@@ -8,10 +8,10 @@ This event is free but registration IS required.  For more information on the ev
 
 If you have any questions regarding this event or the lab pre-requisites please do not hesitate to reach out to me at kvgros@architectnow.net.
 
-**Kevin Grossnicklaus
-*President
-*ArchitectNow
-*www.architectnow.net
+**Kevin Grossnicklaus**
+President
+ArchitectNow
+www.architectnow.net
 
 ---
 
