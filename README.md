@@ -4,7 +4,7 @@ This repo contains the lab pre-requisites for the 2019 Global Azure Bootcamp eve
 
 During this event attendees will have the option of diving into a variety of Azure tools and technologies by working through one of three labs.  Local experts will be onsite to assist and guide attendees as necessary.  Information on the labs we plan on proctoring is provided below.
 
-This event is free but registration IS required.  For more information on the event itself and to register please check out this page:  [Register](https://www.eventbrite.com/e/global-azure-bootcamp-2019-st-louis-tickets-56650721834).
+This event is free but **registration IS required**.  For more information on the event itself and to register please check out this page:  [Register](https://www.eventbrite.com/e/global-azure-bootcamp-2019-st-louis-tickets-56650721834).  Lunch will be provided as well as refreshments throughout the day.
 
 If you have any questions regarding this event or the lab pre-requisites please do not hesitate to reach out to me at kvgros@architectnow.net.
 
