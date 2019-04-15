@@ -1,10 +1,21 @@
-# Global-Azure-Bootcamp-2019
+# St. Louis Global Azure Bootcamp 2019
 
 This repo contains the lab pre-requisites for the 2019 Global Azure Bootcamp event being held on April 27th, 2019.   The documentation contained here will help event attendees prepare their development environment (and Azure tenant) for whichever of the three labs they choose to work through at the event.
 
-During this event attendees will have the option of diving into a variety of Azure tools and technologies by working through one of three labs.  Local experts will be onsite to assist and guide attendees as necessary.
+During this event attendees will have the option of diving into a variety of Azure tools and technologies by working through one of three labs.  Local experts will be onsite to assist and guide attendees as necessary.  Information on the labs we plan on proctoring is provided below.
 
-The following labs will be provided:
+This event is free but registration IS required.  For more information on the event itself and to register please check out this page:  [Register](https://www.eventbrite.com/e/global-azure-bootcamp-2019-st-louis-tickets-56650721834).
+
+If you have any questions regarding this event or the lab pre-requisites please do not hesitate to reach out to me at kvgros@architectnow.net.
+
+*Kevin Grossnicklaus*
+*President
+*ArchitectNow
+*www.architectnow.net 
+
+---
+
+The following labs will be provided.  To make the day run smoothly it is *IMPORTANT* that you choose one (or more) of the labs below and work through the Pre-Requisites provided.   This will ensure you have the necessary tools, Azure access, and other infrastructure set up prior to starting the actual lab.  Prior to the event we will distribute the step-by-step instructions for each lab electronically (they will not be provided in printed form).
 
 ## Legacy App Modernization
 
@@ -31,11 +42,4 @@ At the end of this workshop, you will be better able to improve the reliability 
 [Pre-Requisites](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/tree/master/Prerequisites/Containers%20and%20DevOps_Prerequisites)
 
 
-This event is free but registration IS required.  For more information on the event itself and to register please check out this page:  https://www.eventbrite.com/e/global-azure-bootcamp-2019-st-louis-tickets-56650721834.
 
-If you have any questions regarding this event or the lab pre-requisites please do not hesitate to reach out to me at kvgros@architectnow.net.
-
-Kevin Grossnicklaus
-President
-ArchitectNow
-www.architectnow.net 
