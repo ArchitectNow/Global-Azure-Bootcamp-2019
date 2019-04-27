@@ -25,6 +25,8 @@ At the end of this workshop, you will be better able to design a modernization p
 
 [Pre-Requisites](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/tree/master/Prerequisites/App%20modernization_Prerequisites)
 
+[Step by Step](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/tree/master/Step%20by%20step/App%20modernization_Step-by-step)
+
 ## Continuous Delivery in Azure DevOps
 
 In this workshop, you will learn how to setup and configure continuous delivery within Azure using a combination of Azure Resource Manager templates and Azure DevOps. You will do this throughout the use of a new Azure DevOps project, Git repository for source control, and an Azure Resource Manager template for Azure resource deployment and configuration management.
@@ -32,6 +34,8 @@ In this workshop, you will learn how to setup and configure continuous delivery 
 At the end of this workshop, you will be able to build templates to automate cloud infrastructure and reduce error-prone manual processes. In addition, you'll create an Azure Resource Manager (ARM) template to provision Azure resources, configure continuous delivery with Azure DevOps, configure Application Insights into an application, and create an Azure DevOps project and Git repository.
 
 [Pre-Requisites](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/tree/master/Prerequisites/Continuous%20Delivery_Prerequisites)
+
+[Step by Step](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/blob/master/Step%20by%20step/Continuous%20Delivery_Step-by-step/Continuous%20delivery%20in%20Azure%20DevOps_Step-by-step.md)
 
 ## Containers and DevOps
 
@@ -41,5 +45,5 @@ At the end of this workshop, you will be better able to improve the reliability 
 
 [Pre-Requisites](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/tree/master/Prerequisites/Containers%20and%20DevOps_Prerequisites)
 
-
+[Step by Step](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/blob/master/Step%20by%20step/Containers%20and%20DevOps_Step-by-step/Containers%20and%20DevOps_Step-by-step.md)
 
