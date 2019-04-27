@@ -35,7 +35,7 @@ At the end of this workshop, you will be able to build templates to automate clo
 
 [Pre-Requisites](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/tree/master/Prerequisites/Continuous%20Delivery_Prerequisites)
 
-[Step by Step](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/blob/master/Step%20by%20step/Continuous%20Delivery_Step-by-step/Continuous%20delivery%20in%20Azure%20DevOps_Step-by-step.md)
+[Step by Step](https://github.com/ArchitectNow/Global-Azure-Bootcamp-2019/blob/master/Step%20by%20step/App%20modernization_Step-by-step/App%20modernization_Step-by-step.md)
 
 ## Containers and DevOps
 
